@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "RikoAnime - Premium Anime Streaming",
+  title: "KiraCast - Anime Streaming",
   description: "A premium frontend for an anime streaming service",
 };
 
