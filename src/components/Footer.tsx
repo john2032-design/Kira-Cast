@@ -19,7 +19,7 @@ export default function Footer() {
         </div>
 
         <p className="mt-6 max-w-2xl leading-relaxed text-gray-600">
-          RikoAnime is built for fast browsing, clean playback, and easy episode navigation.
+          KiraCast is built for fast browsing, clean playback, and easy episode navigation.
         </p>
       </div>
     </footer>
